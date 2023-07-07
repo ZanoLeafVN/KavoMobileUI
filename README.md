@@ -10,12 +10,19 @@ local Window = Library.CreateLib("TITLE", "DarkTheme")
 ```
 **Themes**:
 LightTheme
+
 DarkTheme
+
 GrapeTheme
+
 BloodTheme
+
 Ocean
+
 Midnight
+
 Sentinel
+
 Synapse
 
 #### Creating Tabs
