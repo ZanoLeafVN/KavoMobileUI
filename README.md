@@ -2,7 +2,7 @@
 ## Documentation
 #### Getting Loadstring
 ```lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZanoLeafVN/KavoMobileUI/KavoMobile.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZanoLeafVN/KavoMobileUI/main/KavoMobile.lua"))()
 ```
 #### Creating UI Library Window
 ```lua
