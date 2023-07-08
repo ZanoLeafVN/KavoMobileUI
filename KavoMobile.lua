@@ -84,13 +84,6 @@ local themeStyles = {
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(74, 58, 84)
     },
-    GreenTheme = {
-        SchemeColor = Color3.fromRGB(56,180, 36),
-        Background = Color3.fromRGB(20,105,35),
-        Header = Color3.fromRGB(20, 125, 10),
-        TextColor = Color3.fromRGB(255,255,255),
-        ElementColor = Color3.fromRGB(0, 180, 0)
-    },
     Ocean = {
         SchemeColor = Color3.fromRGB(86, 76, 251),
         Background = Color3.fromRGB(26, 32, 58),
