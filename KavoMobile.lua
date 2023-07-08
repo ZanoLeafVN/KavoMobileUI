@@ -86,8 +86,8 @@ local themeStyles = {
     },
     GreenTheme = {
         SchemeColor = Color3.fromRGB(5,210, 5),
-        Background = Color3.fromRGB(25,80,40),
-        Header = Color3.fromRGB(20, 185, 10),
+        Background = Color3.fromRGB(25,90,40),
+        Header = Color3.fromRGB(20, 115, 10),
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(0, 180, 0)
     },
